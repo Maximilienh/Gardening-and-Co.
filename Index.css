@@ -1,4 +1,30 @@
 .img1 {
-	width:800px;
+	position: relative;
+	top: 400px
+	width:700px;
+	right: 9px;
+
+}
+
+.mission {
+	color:white;
+	position: relative;
+	top:-500px;
+	right:-840px;
+	width:500px;
+	font-size:30px;
+}s
+
+.img2 {
+	position: relative;
+	top: 700px;
+}
+
+.mission2 {
+	position: relative;
+	color:white;
+	font-size: 40px;
+	top: -100px;
+	left: 130px;
 
 }
